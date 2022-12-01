@@ -1,0 +1,14 @@
+location:
+  address: 23 Centre Ave, Port Melbourne VIC 3207
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.0228040212937!2d144.919692!3d-37.836352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66735505b4f0d%3A0x286b9fdb0da1bafc!2sLocal%20Rules%20Coffee%20Roasters!5e0!3m2!1sen!2sau!4v1669891130891!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/localrulescofferoasters/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:0402 837 241
